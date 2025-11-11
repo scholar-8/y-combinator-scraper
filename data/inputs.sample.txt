@@ -1,0 +1,5 @@
+# Sample input file for Y Combinator scraper.
+# This file can be used to provide batch names or search filters for scraping.
+
+Batch Name: Winter 2025
+Location: San Francisco
