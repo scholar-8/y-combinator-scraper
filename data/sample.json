@@ -1,0 +1,14 @@
+{
+  "company_name": "Sample Company",
+  "batch": "Winter 2025",
+  "status": "ACTIVE",
+  "location": "San Francisco",
+  "website": "https://samplecompany.com",
+  "founders": [
+    {
+      "name": "John Doe",
+      "linkedin": "https://www.linkedin.com/in/johndoe",
+      "x": "https://x.com/johndoe"
+    }
+  ]
+}
