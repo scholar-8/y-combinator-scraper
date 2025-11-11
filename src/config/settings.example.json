@@ -1,0 +1,5 @@
+{
+  "ycombinator_url": "https://www.ycombinator.com/companies",
+  "output_format": "json",
+  "scraping_interval": 60
+}
